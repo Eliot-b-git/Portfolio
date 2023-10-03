@@ -28,7 +28,7 @@
 }
 
 .markdown-class a {
-  @apply opacity-80 font-bold text-base underline transition-all duration-200 ease-out hover:opacity-100;
+  @apply opacity-80 font-bold text-base underline transition-all duration-200 ease-out hover:opacity-10;
 }
 
 .markdown-class p {
